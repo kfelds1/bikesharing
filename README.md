@@ -37,3 +37,9 @@ This pie chart shows the amount of customers versus subscribers; in the image, w
 When breaking down the number of rides by user type, it is evident that male subscribers take significantly more rides than other groups. In general, this makes sense as the two groups that make up most of the dataset are subscribers and males. It might be interesting to see a dataset that is more equal among gender and user type to see if there are true discrepancies.
 
 
+## Summary
+
+The main takeaways from this analysis is that most bike rides are only upward of 20 minutes long, most rides are taken at typical commuting hours during the work week and at all hours throughout the morining/afternoon on the weekends, and male subscribers make up most of the rides.
+
+It would be interesting to explore further the bike riders who commute to work, since this is when most of the trips happen. Observing the starting and ending location of these trips might provide some useful insight to where most bike trips take place throughout the city. Another visualization that I would be interested in seeing is a trip breakdown by age; are there certain ages of riders that are more prevalent than others?
+
