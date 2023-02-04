@@ -26,7 +26,7 @@ This simple pie chart reveals that there are many more males than females (and u
 ![Screen Shot 2023-01-24 at 6 36 05 AM](https://user-images.githubusercontent.com/112633146/214281780-931f97a2-32ac-4c2e-b07d-256ca622028e.png)
 ![Screen Shot 2023-01-24 at 6 37 33 AM](https://user-images.githubusercontent.com/112633146/214282037-d16d206b-d76c-46af-977f-2396a84fe9b7.png)
 
-The first image shows a heatmap of male bike riders, and the second image shows a heatmap of female bike riders. There are common trends between the two visualizations, but it seems that females take bike rides on Saturdays slightly more than males.
+The first image shows a heatmap of female bike riders, and the second image shows a heatmap of male bike riders. There are common trends between the two visualizations, but the most noticeable difference is the amount of riders per gender.
 
 ![Screen Shot 2023-01-24 at 6 41 22 AM](https://user-images.githubusercontent.com/112633146/214282712-40d8b5b8-5982-4b9f-a47d-2d381df138ad.png)
 
